@@ -25,14 +25,10 @@ This project replicates and extends the workflow from [Segerstolpe et al_., *Cel
 ## 📂 Repository Structure
 bioinformatics-T2D-scRNAseq/
 
-├── code/ # documented pipeline (Nextflow, STAR, featureCounts)
-
-├── docs/ # proposal, recreated paper references
-
-├── slides/ # project presentation
-
-├── README.md # project description
-
+├── code # documented pipeline (Nextflow, STAR, featureCounts)\
+├── docs # proposal, recreated paper references\
+├── slides # project presentation\
+├── README.md # project description\
 └── .gitignore
 
 ---
