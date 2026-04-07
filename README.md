@@ -159,5 +159,5 @@ Open notebooks in this order:
  
 ## 🤝 Acknowledgements
  
-Developed collaboratively as part of BINF 6310 (Spring 2025). Contributions from all four group members are gratefully acknowledged. See the [team repository](https://github.com/richgoodier/islet-scrna-t2d) for the full shared codebase.
+- Developed collaboratively as part of BINF 6310 (Spring 2025). Contributions from all four group members are gratefully acknowledged.
 ---
